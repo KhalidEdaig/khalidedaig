@@ -4,7 +4,7 @@
 My name is EDAIG Khalid and I am a Software Engineer, currently living in Morocco.
 
 
-- 🔭 I’m currently working Freelancer at https://supersalesmanagerapp.com.
+- 🔭 I’m currently working Freelancer at [SSM](https://supersalesmanagerapp.com).
 - 🌱 I use: `.php`, `.js`, `.html`, `.css`, `.vue` & `.java`.
 - 👯 Learning all about Open Source.
 - 💬 Ping me about: laravel, php, javascript, vue js, java/spring boot, development & open source.
