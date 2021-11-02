@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-My name is EDAIG Khalid and I am a Software Engineer, currently living in Morocco.
+I'm EDAIG Khalid and I'm a Software Engineer, currently living in Morocco.
 
 
 - 🔭 I’m currently working Freelancer at [SSM](https://supersalesmanagerapp.com).
