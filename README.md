@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/0a9108cfcbe39b4394f02381a7832bed5d7a33b334e0d6d336e638fbdcf19069/68747470733a2f2f6d79776562323030322e77337370616365732e636f6d2f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 
 <h1 align="center">Hi 👋, I'm EDAIG Khalid</h1>
-<h3 align="center">Full Stack Developer | PHP/Laravel/Vuejs </h3>
+<h3 align="center">Full Stack Developer | PHP|Laravel|Symfony|Vuejs </h3>
 <img align="right" alt="Coding" width="400" src="https://www.quiosk.fr/wp-content/uploads/2019/08/programmer.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=KhalidEdaig&label=Profile%20views&color=0e75b6&style=flat" alt="edaig-khalid" /> </p> -->
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://edaigkhalid.netlify.app/](https://edaigkhalid.netlify.app/)
 
-- 💬 Ask me about **laravel 6 >, vuejs2/3, vite, php, nuxt.JS, PHP, tailwindcss**
+- 💬 Ask me about **laravel 6 >, vuejs2|3, vite, php, nuxt.JS, PHP, tailwindcss**
 
 - ⚡ Fun fact: I'm big fan of learning, searching ....
 
