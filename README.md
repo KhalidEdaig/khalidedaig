@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working Freelancer at [SSM](https://supersalesmanagerapp.com).
 
-- 🌱 I’m currently learning **Symfony 5, Reactjs**
+- 🌱 I’m currently learning **Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://edaigkhalid.netlify.app/](https://edaigkhalid.netlify.app/)
 
