@@ -5,14 +5,15 @@
 <img align="right" alt="Coding" width="400" src="https://www.quiosk.fr/wp-content/uploads/2019/08/programmer.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=KhalidEdaig&label=Profile%20views&color=0e75b6&style=flat" alt="edaig-khalid" /> </p> -->
+- 🔭 I’m currently working engineer full stack at [Venise Group](https://veniseactivation.fr)
+- 
+- 🔭 I worked at [B&C Lab](https://medsoft.agency/)
 
-- 🔭 I’m currently working on [B&C Lab](https://medsoft.agency/)
-
-- 🔭 I’m currently working Freelancer at [SSM](https://supersalesmanagerapp.com).
+- 🔭 I worked Freelancer at [SSM](https://supersalesmanagerapp.com).
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://edaigkhalid.netlify.app/](https://edaigkhalid.com)
+- 👨‍💻 All of my projects are available at [https://edaigkhalid.com/](https://edaigkhalid.com)
 
 - 💬 Ask me about **laravel 6 >, vuejs2|3, vite, php, nuxt.JS, PHP, tailwindcss**
 
@@ -20,7 +21,7 @@
 
 - 📫 How to reach me **edaigkhalid@gmail.com**
 
-- 📄 Know about my experiences [https://edaigkhalid.netlify.app/](https://edaigkhalid.com)
+- 📄 Know about my experiences [https://edaigkhalid.com/](https://edaigkhalid.com)
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
