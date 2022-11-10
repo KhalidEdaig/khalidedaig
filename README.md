@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://edaigkhalid.com/](https://edaigkhalid.com)
+- 👨‍💻 All of my projects are available at [https://edaigkhalid.com](https://edaigkhalid.com)
 
 - 💬 Ask me about **laravel 6 >, vuejs2|3, vite, php, nuxt.JS, PHP, tailwindcss**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **edaigkhalid@gmail.com**
 
-- 📄 Know about my experiences [https://edaigkhalid.com/](https://edaigkhalid.com)
+- 📄 Know about my experiences [https://edaigkhalid.com](https://edaigkhalid.com)
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
